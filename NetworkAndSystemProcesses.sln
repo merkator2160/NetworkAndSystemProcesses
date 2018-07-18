@@ -18,7 +18,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{2E48127C-211F-4740-994D-E13C5C99683F}"
 	ProjectSection(SolutionItems) = preProject
 		clean-with-scc.bat = clean-with-scc.bat
-		TT.docx = TT.docx
+		readme.md = readme.md
 	EndProjectSection
 EndProject
 Global
